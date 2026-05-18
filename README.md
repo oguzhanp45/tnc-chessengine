@@ -82,8 +82,8 @@ chess-engine/
 
 ```bash
 # 1. Repoyu klonlayın
-git clone https://github.com/KULLANICI_ADI/chess-engine.git
-cd chess-engine
+git clone https://github.com/oguzhanp45/tnc-chessengine.git
+cd tnc-chessengine
 
 # 2. Bağımlılıkları yükleyin
 npm install
@@ -107,7 +107,7 @@ Build çıktısı `dist/` klasöründe oluşturulur. Bu klasör Netlify'a sürü
 
 ## 🌐 Canlı Demo
 
-🔗 **[Netlify Canlı Linki](NETLIFY_LINKINIZI_BURAYA_YAZIN)**
+🔗 **[Netlify Canlı Linki]([https://effulgent-flan-bdf9d3.netlify.app])**
 
 ---
 
