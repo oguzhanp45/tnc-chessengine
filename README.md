@@ -107,7 +107,7 @@ Build çıktısı `dist/` klasöründe oluşturulur. Bu klasör Netlify'a sürü
 
 ## 🌐 Canlı Demo
 
-🔗 **[Netlify Canlı Linki]([https://effulgent-flan-bdf9d3.netlify.app])**
+🔗 **[Netlify Canlı Linki] ([https://effulgent-flan-bdf9d3.netlify.app])**
 
 ---
 
